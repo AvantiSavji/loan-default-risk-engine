@@ -1,0 +1,20 @@
+# Raw and processed data — too large + Kaggle terms
+data/*.csv
+
+# Local S3 simulation
+s3_local_bucket/
+
+# Virtual environment
+venv/
+
+# Environment variables — never push secrets
+.env
+
+# Jupyter checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
