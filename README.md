@@ -210,10 +210,3 @@ specific, auditable reasons — protecting both the bank and the applicant.
 
 ---
 
-## Author
-
-**Avanti Savji**
-Pursuing Electronics & Telecommunication Engineering — VIIT Pune
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AvantiSavji)
